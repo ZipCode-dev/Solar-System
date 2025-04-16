@@ -52,6 +52,26 @@ std::vector<CelestialBody> getSolarSystem()
   );
   SolarSystem.push_back(Sun);
 
+CelestialBody WorldMachine
+  (
+    "WorldMachine",
+    "WorldMachine.png",
+    0.3301      * pow(10, 24),
+    6.083       * pow(10, 10),
+    5.429       * pow(10, 3),
+    3.70,
+    2.4397      * pow(10, 3),
+    4.736       * pow(10, 1),
+    4.6000      * pow(10, 7),
+    6.9818      * pow(10, 7),
+    8.7969      * pow(10, 1),
+    4222.6,
+    0,
+    false
+  );
+  SolarSystem.push_back(WorldMachine)
+
+
   CelestialBody Mercury
   (
     "Mercury",
