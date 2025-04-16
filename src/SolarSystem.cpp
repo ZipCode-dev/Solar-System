@@ -69,7 +69,7 @@ CelestialBody WorldMachine
     0,
     false
   );
-  SolarSystem.push_back(WorldMachine)
+  SolarSystem.push_back(WorldMachine);
 
 
   CelestialBody Mercury
@@ -80,10 +80,10 @@ CelestialBody WorldMachine
     6.083       * pow(10, 10),
     5.429       * pow(10, 3),
     3.70,
-    2.4397      * pow(10, 3),
+    6.9911      * pow(10, 4),
     4.736       * pow(10, 1),
-    4.6000      * pow(10, 7),
-    6.9818      * pow(10, 7),
+    7.40595     * pow(10, 8),
+    8.16363     * pow(10, 8),
     8.7969      * pow(10, 1),
     4222.6,
     0,
