@@ -55,7 +55,7 @@ std::vector<CelestialBody> getSolarSystem()
   CelestialBody MarioWorld
   (
     "MarioWorld",
-    "CleanMario.webp",
+    "CleanMario.jpg",
     0.3301      * pow(10, 24),
     6.083       * pow(10, 10),
     5.429       * pow(10, 3),
